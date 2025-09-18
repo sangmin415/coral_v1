@@ -1,0 +1,95 @@
+tech_name: mock_samsung8rf
+units:
+  um_per_pixel: 0.4
+  dbu: 0.001
+materials:
+  metals:
+    aluminum:
+      conductivity_S_per_m: 3.80e7
+      surface_roughness_um: 0.03
+  dielectrics:
+    interlayer:
+      relative_permittivity: 3.4
+      loss_tangent: 0.002
+    passivation:
+      relative_permittivity: 3.1
+      loss_tangent: 0.006
+layers:
+  metal1:
+    purpose: rf_signal
+    gds:
+      layer: 30
+      datatype: 0
+    thickness_um: 0.7
+    min_width_um: 0.35
+  metal2:
+    purpose: rf_signal
+    gds:
+      layer: 32
+      datatype: 0
+    thickness_um: 1.0
+    min_width_um: 0.35
+  via12:
+    purpose: via
+    gds:
+      layer: 31
+      datatype: 0
+    thickness_um: 0.4
+    min_diameter_um: 0.3
+  cap_top_plate:
+    purpose: capacitor
+    gds:
+      layer: 40
+      datatype: 6
+    thickness_um: 0.75
+    min_width_um: 0.35
+    material: aluminum
+  cap_bottom_plate:
+    purpose: capacitor
+    gds:
+      layer: 41
+      datatype: 6
+    thickness_um: 0.75
+    min_width_um: 0.35
+    material: aluminum
+drc:
+  min_width_um: 0.35
+  max_width_um: 60.0
+  min_height_um: 0.35
+  max_height_um: 60.0
+  min_spacing_um: 0.45
+  min_via_enclosure_um:
+    metal1: 0.045
+    metal2: 0.045
+  density_window_um: 80.0
+  density_target:
+    metal1:
+      min: 0.30
+      max: 0.70
+    metal2:
+      min: 0.30
+      max: 0.70
+export:
+  gds:
+    layer_map:
+      metal1:
+        layer: 30
+        datatype: 0
+      via12:
+        layer: 31
+        datatype: 0
+      metal2:
+        layer: 32
+        datatype: 0
+      cap_top_plate:
+        layer: 40
+        datatype: 6
+      cap_bottom_plate:
+        layer: 41
+        datatype: 6
+design_space:
+  idc:
+    num_fingers: [2, 20]
+    finger_length_um: [10.0, 60.0]
+    finger_width_um: [0.5, 5.0]
+    finger_spacing_um: [0.5, 5.0]

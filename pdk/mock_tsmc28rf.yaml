@@ -1,0 +1,92 @@
+tech_name: mock_tsmc28rf
+units:
+  um_per_pixel: 0.5
+  dbu: 0.001
+materials:
+  metals:
+    copper:
+      conductivity_S_per_m: 4.10e7
+      surface_roughness_um: 0.02
+  dielectrics:
+    oxide:
+      relative_permittivity: 3.7
+      loss_tangent: 0.0015
+    passivation:
+      relative_permittivity: 3.2
+      loss_tangent: 0.007
+layers:
+  metal1:
+    purpose: signal
+    gds:
+      layer: 10
+      datatype: 0
+    thickness_um: 0.9
+    min_width_um: 0.4
+  metal2:
+    purpose: signal
+    gds:
+      layer: 12
+      datatype: 0
+    thickness_um: 1.2
+    min_width_um: 0.4
+  via12:
+    purpose: via
+    gds:
+      layer: 11
+      datatype: 0
+    thickness_um: 0.45
+    min_diameter_um: 0.35
+  cap_top_plate:
+    purpose: capacitor
+    gds:
+      layer: 20
+      datatype: 5
+    thickness_um: 0.8
+    min_width_um: 0.4
+    material: copper
+  cap_bottom_plate:
+    purpose: capacitor
+    gds:
+      layer: 21
+      datatype: 5
+    thickness_um: 0.8
+    min_width_um: 0.4
+    material: copper
+drc:
+  min_width_um: 0.4
+  min_spacing_um: 0.5
+  min_via_enclosure_um:
+    metal1: 0.05
+    metal2: 0.05
+  density_window_um: 100.0
+  density_target:
+    metal1:
+      min: 0.25
+      max: 0.75
+    metal2:
+      min: 0.25
+      max: 0.75
+export:
+  gds:
+    layer_map:
+      metal1:
+        layer: 10
+        datatype: 0
+      via12:
+        layer: 11
+        datatype: 0
+      metal2:
+        layer: 12
+        datatype: 0
+      cap_top_plate:
+        layer: 20
+        datatype: 5
+      cap_bottom_plate:
+        layer: 21
+        datatype: 5
+design_space:
+  idc:
+    num_fingers: [2, 20]
+    finger_length_um: [10.0, 60.0]
+    finger_width_um: [0.5, 5.0]
+    finger_spacing_um: [0.5, 5.0]

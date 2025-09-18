@@ -1,0 +1,1004 @@
+{
+  "jobs": [
+    {
+      "job_id": 0,
+      "mask_path": "data\\masks\\mask_0000.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 1,
+      "mask_path": "data\\masks\\mask_0001.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 2,
+      "mask_path": "data\\masks\\mask_0002.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 3,
+      "mask_path": "data\\masks\\mask_0003.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 4,
+      "mask_path": "data\\masks\\mask_0004.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 5,
+      "mask_path": "data\\masks\\mask_0005.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 6,
+      "mask_path": "data\\masks\\mask_0006.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 7,
+      "mask_path": "data\\masks\\mask_0007.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 8,
+      "mask_path": "data\\masks\\mask_0008.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 9,
+      "mask_path": "data\\masks\\mask_0009.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 10,
+      "mask_path": "data\\masks\\mask_0010.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 11,
+      "mask_path": "data\\masks\\mask_0011.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 12,
+      "mask_path": "data\\masks\\mask_0012.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 13,
+      "mask_path": "data\\masks\\mask_0013.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 14,
+      "mask_path": "data\\masks\\mask_0014.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 15,
+      "mask_path": "data\\masks\\mask_0015.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 16,
+      "mask_path": "data\\masks\\mask_0016.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 17,
+      "mask_path": "data\\masks\\mask_0017.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 18,
+      "mask_path": "data\\masks\\mask_0018.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 19,
+      "mask_path": "data\\masks\\mask_0019.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 20,
+      "mask_path": "data\\masks\\mask_0020.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 21,
+      "mask_path": "data\\masks\\mask_0021.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 22,
+      "mask_path": "data\\masks\\mask_0022.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 23,
+      "mask_path": "data\\masks\\mask_0023.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 24,
+      "mask_path": "data\\masks\\mask_0024.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 25,
+      "mask_path": "data\\masks\\mask_0025.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 26,
+      "mask_path": "data\\masks\\mask_0026.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 27,
+      "mask_path": "data\\masks\\mask_0027.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 28,
+      "mask_path": "data\\masks\\mask_0028.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 29,
+      "mask_path": "data\\masks\\mask_0029.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 30,
+      "mask_path": "data\\masks\\mask_0030.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 31,
+      "mask_path": "data\\masks\\mask_0031.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 32,
+      "mask_path": "data\\masks\\mask_0032.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 33,
+      "mask_path": "data\\masks\\mask_0033.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 34,
+      "mask_path": "data\\masks\\mask_0034.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 35,
+      "mask_path": "data\\masks\\mask_0035.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 36,
+      "mask_path": "data\\masks\\mask_0036.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 37,
+      "mask_path": "data\\masks\\mask_0037.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 38,
+      "mask_path": "data\\masks\\mask_0038.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 39,
+      "mask_path": "data\\masks\\mask_0039.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 40,
+      "mask_path": "data\\masks\\mask_0040.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 41,
+      "mask_path": "data\\masks\\mask_0041.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 42,
+      "mask_path": "data\\masks\\mask_0042.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 43,
+      "mask_path": "data\\masks\\mask_0043.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 44,
+      "mask_path": "data\\masks\\mask_0044.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 45,
+      "mask_path": "data\\masks\\mask_0045.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 46,
+      "mask_path": "data\\masks\\mask_0046.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 47,
+      "mask_path": "data\\masks\\mask_0047.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 48,
+      "mask_path": "data\\masks\\mask_0048.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 49,
+      "mask_path": "data\\masks\\mask_0049.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 50,
+      "mask_path": "data\\masks\\mask_0050.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 51,
+      "mask_path": "data\\masks\\mask_0051.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 52,
+      "mask_path": "data\\masks\\mask_0052.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 53,
+      "mask_path": "data\\masks\\mask_0053.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 54,
+      "mask_path": "data\\masks\\mask_0054.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 55,
+      "mask_path": "data\\masks\\mask_0055.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 56,
+      "mask_path": "data\\masks\\mask_0056.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 57,
+      "mask_path": "data\\masks\\mask_0057.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 58,
+      "mask_path": "data\\masks\\mask_0058.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 59,
+      "mask_path": "data\\masks\\mask_0059.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 60,
+      "mask_path": "data\\masks\\mask_0060.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 61,
+      "mask_path": "data\\masks\\mask_0061.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 62,
+      "mask_path": "data\\masks\\mask_0062.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 63,
+      "mask_path": "data\\masks\\mask_0063.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 64,
+      "mask_path": "data\\masks\\mask_0064.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 65,
+      "mask_path": "data\\masks\\mask_0065.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 66,
+      "mask_path": "data\\masks\\mask_0066.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 67,
+      "mask_path": "data\\masks\\mask_0067.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 68,
+      "mask_path": "data\\masks\\mask_0068.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 69,
+      "mask_path": "data\\masks\\mask_0069.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 70,
+      "mask_path": "data\\masks\\mask_0070.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 71,
+      "mask_path": "data\\masks\\mask_0071.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 72,
+      "mask_path": "data\\masks\\mask_0072.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 73,
+      "mask_path": "data\\masks\\mask_0073.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 74,
+      "mask_path": "data\\masks\\mask_0074.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 75,
+      "mask_path": "data\\masks\\mask_0075.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 76,
+      "mask_path": "data\\masks\\mask_0076.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 77,
+      "mask_path": "data\\masks\\mask_0077.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 78,
+      "mask_path": "data\\masks\\mask_0078.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 79,
+      "mask_path": "data\\masks\\mask_0079.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 80,
+      "mask_path": "data\\masks\\mask_0080.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 81,
+      "mask_path": "data\\masks\\mask_0081.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 82,
+      "mask_path": "data\\masks\\mask_0082.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 83,
+      "mask_path": "data\\masks\\mask_0083.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 84,
+      "mask_path": "data\\masks\\mask_0084.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 85,
+      "mask_path": "data\\masks\\mask_0085.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 86,
+      "mask_path": "data\\masks\\mask_0086.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 87,
+      "mask_path": "data\\masks\\mask_0087.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 88,
+      "mask_path": "data\\masks\\mask_0088.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 89,
+      "mask_path": "data\\masks\\mask_0089.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 90,
+      "mask_path": "data\\masks\\mask_0090.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 91,
+      "mask_path": "data\\masks\\mask_0091.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 92,
+      "mask_path": "data\\masks\\mask_0092.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 93,
+      "mask_path": "data\\masks\\mask_0093.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 94,
+      "mask_path": "data\\masks\\mask_0094.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 95,
+      "mask_path": "data\\masks\\mask_0095.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 96,
+      "mask_path": "data\\masks\\mask_0096.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 97,
+      "mask_path": "data\\masks\\mask_0097.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 98,
+      "mask_path": "data\\masks\\mask_0098.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    },
+    {
+      "job_id": 99,
+      "mask_path": "data\\masks\\mask_0099.npy",
+      "cap_type": "idc",
+      "sweep": {
+        "f_start_GHz": 1.0,
+        "f_stop_GHz": 20.0,
+        "n_points": 402
+      }
+    }
+  ]
+}
