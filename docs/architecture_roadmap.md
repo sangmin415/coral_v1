@@ -4,9 +4,14 @@
 
 ## 1. 데이터 레이어 정리: 파라메트릭 시드 + 픽셀 하이브리드 구조
 
+### 최신 진행 상황
+- `generate_candidates.py`가 파라메트릭 시드 JSON과 메타데이터 CSV를 생성하여 하이브리드 데이터 구조를 구축했다.【F:ml_core/generate_candidates.py†L1-L74】
+- `ml_core/datasets.HybridMaskDataset`가 마스크·파라미터·시뮬레이션 결과를 동시에 로딩하도록 추가되었다.【F:ml_core/datasets.py†L1-L205】
+- `train_surrogate.py`는 `HybridUNetSurrogate`를 사용해 파라미터와 마스크를 융합하는 학습 루프를 지원한다.【F:ml_core/train_surrogate.py†L1-L94】【F:ml_core/unet.py†L1-L121】
+
 ### 현재 상태
-- `data/masks`에는 픽셀 기반 레이아웃만 저장되고 파라메트릭 정보는 `jobs_to_run.json` 생성 시에만 존재한다.【F:ml_core/generate_candidates.py†L1-L33】
-- 서로게이트 학습 데이터로는 단일 채널 마스크만 사용되며, 파라메트릭/메타 정보가 손실된다.【F:ml_core/train_surrogate.py†L8-L45】
+- (레거시) `data/masks`에는 픽셀 기반 레이아웃만 저장되고 파라메트릭 정보는 `jobs_to_run.json` 생성 시에만 존재한다.【F:ml_core/generate_candidates.py†L13-L79】
+- (레거시) 서로게이트 학습 데이터로는 단일 채널 마스크만 사용되며, 파라메트릭/메타 정보가 손실된다.【F:ml_core/train_surrogate.py†L16-L94】
 
 ### 개선 목표
 1. **하이브리드 데이터 스키마**
