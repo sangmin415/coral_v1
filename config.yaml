@@ -1,8 +1,0 @@
-# config.yaml
-pdk:
-  eps_r: 3.9
-  metal_thickness: 2e-6
-  unit_size: 1e-6
-  min_width: 2
-  min_spacing: 2
-
