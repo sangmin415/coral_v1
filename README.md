@@ -19,7 +19,7 @@ The primary objective of this project is to replace time-consuming, iterative el
 
 1.  **ADS 데이터 생성 (Data Generation)**
     -   Keysight ADS에서 파라미터 스윕 EM 시뮬레이션을 실행하여 포괄적인 데이터셋을 생성합니다.
-    -   주요 레이아웃 파라미터(예: 핑거 길이 `L`, 폭 `W`, 간격 `S`, 핑거 수 `N`)를 지정된 범위 내에서 변경하며 시뮬레이션합니다.
+    -   주요 레이아웃 파라미터(예: 핑거 길이 `L`, 폭 `W`)를 지정된 범위 내에서 변경하며 시뮬레이션합니다.
     -   핵심 성능 지표인 커패시턴스(C), Q-factor, 자체 공진 주파수(SRF), S-파라미터를 추출합니다.
 
 2.  **데이터 전처리 (Data Preprocessing)**
