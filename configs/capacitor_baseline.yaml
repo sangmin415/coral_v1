@@ -1,0 +1,40 @@
+# Example configuration to align expectations before the real dataset arrives.
+feature_columns:
+  - L_um
+  - W_um
+  - spacing_um
+  - fingers
+
+target_columns:
+  - capacitance_pf
+  - q_factor
+  - srf_ghz
+
+preprocess:
+  input_path: data/raw/capacitor_dataset.xlsx
+  sheet: 0
+  test_size: 0.15
+  val_size: 0.15
+  random_state: 42
+
+training:
+  train_csv: data/processed/train.csv
+  val_csv: data/processed/val.csv
+  scaler_path: data/processed/scalers.json
+  hidden_dims: [256, 256, 128]
+  activation: relu
+  dropout: 0.1
+  batch_size: 64
+  epochs: 400
+  lr: 0.001
+  weight_decay: 0.0001
+  patience: 30
+  experiment_name: mlp_capacitor
+
+optimization:
+  model_path: results/models/mlp_capacitor.pth
+  target_spec:
+    capacitance_pf: 1.5
+    q_factor: 55
+    srf_ghz: 6.5
+  n_trials: 200
